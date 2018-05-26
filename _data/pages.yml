@@ -1,5 +1,5 @@
 pages:
 - title: home
-  file: index
+  file: /
 - title: examples
-  file: examples
+  file: /examples.html
