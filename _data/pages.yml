@@ -1,0 +1,5 @@
+pages:
+- title: home
+  url: /
+- title: examples
+  url: /examples.html
