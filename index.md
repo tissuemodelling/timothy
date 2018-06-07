@@ -11,3 +11,7 @@ The cells are modeled as individuals located in the lattice-free 3-D space. The 
 
 High parallel scalability achieved allows simulation of up to 109 individual cells. This large scale computational approach allows for simulations to be carried out over realistic spatial scales up to 1cm in size i.e. the tissue scale.
 
+### Main features
+*multiscale individual-based model: subcellular,cellular and tissue scale
+*hybrid formulation: discrete cells, continuous environment
+*highly scalable: parallelized with MPI/OpenMP programming model, optimized for execution on massively parallel systems
