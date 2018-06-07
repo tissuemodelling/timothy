@@ -1,5 +1,13 @@
 pages:
 - title: home
   url: index.html
+- title: publications
+  url: publications.html
+- title: acknowledgements
+  url: acknowledgements.html
 - title: examples
   url: examples.html
+- title: downloads
+  url: downloads.html
+- title: contact
+  url: contact.html
