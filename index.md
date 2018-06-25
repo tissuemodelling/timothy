@@ -15,3 +15,6 @@ High parallel scalability achieved allows simulation of up to 10<sup>9</sup> ind
 - **multiscale individual-based model**: subcellular,cellular and tissue scale
 - **hybrid formulation**: discrete cells, continuous environment
 - **highly scalable**: parallelized with MPI/OpenMP programming model, optimized for execution on massively parallel systems
+
+### Contact
+tissuemodelling@gmail.com
