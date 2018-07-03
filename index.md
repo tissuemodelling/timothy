@@ -17,4 +17,4 @@ High parallel scalability achieved allows simulation of up to 10<sup>9</sup> ind
 - **highly scalable**: parallelized with MPI/OpenMP programming model, optimized for execution on massively parallel systems
 
 ### Contact
-tissuemodelling@gmail.com
+<a href="mailto: tissuemodelling@gmail.com">tissuemodelling@gmail.com</a>
