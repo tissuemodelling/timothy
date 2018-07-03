@@ -5,23 +5,23 @@ Here we present results of various types of Timothy simulations.
 <p>
 <ol>
 <li><b>Simple example of cellular colony dynamics</b><br>
-<iframe src="https://player.vimeo.com/video/121722431" width="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121722431">Timothy</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/121722431" max-width="99%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121722431">Timothy</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </li>
 <br><br>
 <li><b>Vessel with concentration gradient of oxygen in the surrounding tissue</b><br>
 <a href="images/oxyvessel.png"><img src="images/oxyvessel_small.png" width="480"></a></li>
 <br><br>
 <li><b>2-D mitosis example</b><br>
-<iframe src="https://player.vimeo.com/video/121765695" width="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121765695">2-D mitosis</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/121765695" max-width="99%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121765695">2-D mitosis</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </li>
 <br><br>
 <li><b>3-D solid tumor development within healthy tissue (10<sup>6</sup> cells)</b><br>
-<iframe src="https://player.vimeo.com/video/121765693" width="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121765693">3-D tumor spheroid</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br>
+<iframe src="https://player.vimeo.com/video/121765693" max-width="99%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121765693">3-D tumor spheroid</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br>
 <a href="images/tumor.png"><img src="images/tumor_small.png" width="480"></a>
 </li>
 <br><br>
 <li><b>3-D solic tumor development in oxygen environment (necrotic core)</b><br>
-<iframe src="https://player.vimeo.com/video/121765694" width="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121765694">Necrotic core</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br>
+<iframe src="https://player.vimeo.com/video/121765694" max-width="99%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121765694">Necrotic core</a> from <a href="https://vimeo.com/user7149826">Tissue Modelling</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br>
 <a href="images/necrotic.png"><img src="images/necrotic_small.png" width="480"></a>
 </li>
 <br><br>
