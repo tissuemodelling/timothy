@@ -12,8 +12,4 @@ Timothy is written in C and makes use of Message Passing Interface (MPI) library
 * C compiler supporting OpenMP (tested compilers: GNU gcc, IBM xlc),
 * MPI library (tested implementations: OpenMPI, IBM POE for Power7 AIX, IBM MPI library for Blue Gene/Q),
 * Zoltan library (available at http://www.cs.sandia.gov/zoltan/),
-* Hypre library (available at http://acts.nersc.gov/hypre/),
-
-# Example
-
-<iframe src="https://player.vimeo.com/video/121722431" width="480" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/121722431">Timothy</a> from <a href="https://vimeo.com/user7149826">ICM HPC</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+* Hypre library (available at http://acts.nersc.gov/hypre/).
